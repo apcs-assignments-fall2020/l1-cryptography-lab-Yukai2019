@@ -3,16 +3,19 @@ import java.util.Scanner;
 public class Caesar {
     public static String encryptCaesar(String message) {
         return message;
-        // REPLACE THIS WITH YOUR CODE
+        text = text.towercase();
+        String text2 = " ";
+        for (int i=0; i< text.length();i++)
+        {}
     }
 
     public static String decryptCaesar(String message) {
         return message;
-        // REPLACE THIS WITH YOUR CODE
+        
     }
 
     public static String encryptCaesarKey(String message, int key) {
-        return message;
+        return message; 
         // REPLACE THIS WITH YOUR CODE
     }
 
